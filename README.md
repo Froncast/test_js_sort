@@ -4,5 +4,5 @@
 
 ## Примеры
 
-'lemon orange banana apple' ---> 'elmno aegnor aaabnn aelpp'
+'lemon orange banana apple' ---> 'elmno aegnor aaabnn aelpp'  
 'лимон апельсин банан яблоко' ---> 'илмно аеилнпсь аабнн бклооя'
